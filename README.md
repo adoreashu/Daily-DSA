@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/adoreashu/Daily-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/adoreashu/Daily-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/adoreashu/Daily-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/adoreashu/Daily-DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/adoreashu/Daily-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/adoreashu/Daily-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adoreashu/Daily-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adoreashu/Daily-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adoreashu/Daily-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/adoreashu/Daily-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adoreashu/Daily-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/adoreashu/Daily-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/adoreashu/Daily-DSA/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
