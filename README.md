@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adoreashu/Daily-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adoreashu/Daily-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adoreashu/Daily-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adoreashu/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adoreashu/Daily-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adoreashu/Daily-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adoreashu/Daily-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/adoreashu/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
