@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adoreashu/Daily-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adoreashu/Daily-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adoreashu/Daily-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1927-sum-game](https://github.com/adoreashu/Daily-DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adoreashu/Daily-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adoreashu/Daily-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
