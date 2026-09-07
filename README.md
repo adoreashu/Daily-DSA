@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/adoreashu/Daily-DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/adoreashu/Daily-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/adoreashu/Daily-DSA/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adoreashu/Daily-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/adoreashu/Daily-DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/adoreashu/Daily-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1563-stone-game-v](https://github.com/adoreashu/Daily-DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/adoreashu/Daily-DSA/tree/main/1872-stone-game-viii/) | Hard |
 ## Simulation
