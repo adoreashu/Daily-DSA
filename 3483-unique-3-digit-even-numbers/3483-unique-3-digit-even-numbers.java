@@ -1,30 +1,28 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] count = new int[10];
-        for (int digit : digits) {
-            count[digit]++;
-        }
-        
-        int validCount = 0;
-        for (int i = 1; i <= 9; i++) {
-            for (int j = 0; j <= 9; j++) {
-                for (int k = 0; k <= 8; k += 2) {
-                    
-                    count[i]--;
-                    count[j]--;
-                    count[k]--;
-                    
-                    if (count[i] >= 0 && count[j] >= 0 && count[k] >= 0) {
-                        validCount++;
+        int n = digits.length;
+        boolean[] seen = new boolean[1000];
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if (digits[i] == 0) continue; 
+            
+            for (int j = 0; j < n; j++) {
+                if (i == j) continue; 
+                
+                for (int k = 0; k < n; k++) {
+                    if (i == k || j == k) continue; 
+                                        if (digits[k] % 2 == 0) { 
+                        int val = digits[i] * 100 + digits[j] * 10 + digits[k];
+                        
+                        if (!seen[val]) {
+                            seen[val] = true;
+                            count++;
+                        }
                     }
-                    
-                    count[i]++;
-                    count[j]++;
-                    count[k]++;
                 }
             }
         }
         
-        return validCount;
+        return count;
     }
 }
