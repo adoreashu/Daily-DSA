@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adoreashu/Daily-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/adoreashu/Daily-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/adoreashu/Daily-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adoreashu/Daily-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adoreashu/Daily-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adoreashu/Daily-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/adoreashu/Daily-DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adoreashu/Daily-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/adoreashu/Daily-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adoreashu/Daily-DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/adoreashu/Daily-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
