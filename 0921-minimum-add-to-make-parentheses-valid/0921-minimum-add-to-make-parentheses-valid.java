@@ -1,19 +1,19 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int unmatchedOpen = 0; 
-        int unmatchedClose = 0; 
+        int unmatched_wala_Open = 0; 
+        int unmatched_wala_Close = 0; 
         
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
-                unmatchedOpen++;
+                unmatched_wala_Open++;
             } else { 
-                if (unmatchedOpen > 0) {
-                    unmatchedOpen--;
+                if (unmatched_wala_Open > 0) {
+                    unmatched_wala_Open--;
                 } else {
-                    unmatchedClose++;
+                    unmatched_wala_Close++;
                 }
             }
         }
-        return unmatchedOpen + unmatchedClose;
+        return unmatched_wala_Open + unmatched_wala_Close;
     }
 }
