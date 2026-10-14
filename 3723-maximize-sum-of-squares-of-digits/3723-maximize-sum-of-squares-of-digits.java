@@ -15,7 +15,6 @@ class Solution {
             res[idx++] = (char) ('0' + rem);
         }
         
-        // 3. Fill the rest of the lower place values with '0's
         while (idx < num) {
             res[idx++] = '0';
         }
