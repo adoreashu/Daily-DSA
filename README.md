@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/adoreashu/Daily-DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adoreashu/Daily-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adoreashu/Daily-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adoreashu/Daily-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adoreashu/Daily-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adoreashu/Daily-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adoreashu/Daily-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adoreashu/Daily-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adoreashu/Daily-DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adoreashu/Daily-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adoreashu/Daily-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adoreashu/Daily-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adoreashu/Daily-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adoreashu/Daily-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adoreashu/Daily-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adoreashu/Daily-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -346,4 +349,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adoreashu/Daily-DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adoreashu/Daily-DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
