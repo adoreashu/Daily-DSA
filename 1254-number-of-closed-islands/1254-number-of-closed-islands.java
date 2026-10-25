@@ -1,49 +1,31 @@
 class Solution {
+    private boolean dfs(int[][] grid,int r,int c){
+        if(r<0 || c<0 || r>= grid.length || 
+        c>=grid[0].length ) return false;
+        if(grid[r][c]==1) return true;
+        grid[r][c]=1;
+        
+        boolean up = dfs(grid,r-1,c);
+        boolean down = dfs(grid, r+1, c);
+        boolean left = dfs(grid, r, c-1);
+        boolean right = dfs(grid, r, c+1);
+        return  up && down && left && right;
+    }
+
+        
     public int closedIsland(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-        
-        for (int r = 0; r < rows; r++) {
-            if (grid[r][0] == 0) {
-                dfs(grid, r, 0, rows, cols);
-            }
-            if (grid[r][cols - 1] == 0) {
-                dfs(grid, r, cols - 1, rows, cols);
-            }
-        }
-        
-        for (int c = 0; c < cols; c++) {
-            if (grid[0][c] == 0) {
-                dfs(grid, 0, c, rows, cols);
-            }
-            if (grid[rows - 1][c] == 0) {
-                dfs(grid, rows - 1, c, rows, cols);
-            }
-        }
-        
-        int closedCount = 0;
-        for (int r = 1; r < rows - 1; r++) {
-            for (int c = 1; c < cols - 1; c++) {
-                if (grid[r][c] == 0) {
-                    closedCount++;
-                    dfs(grid, r, c, rows, cols);
+        int n = grid.length;
+        int m = grid[0].length;
+        int closedIsl = 0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==0){
+                    if(dfs(grid,i,j)){
+                        closedIsl++;
+                    }
                 }
             }
         }
-        
-        return closedCount;
-    }
-    
-    private void dfs(int[][] grid, int r, int c, int rows, int cols) {
-        if (r < 0 || r >= rows || c < 0 || c >= cols || grid[r][c] == 1) {
-            return;
-        }
-        
-        grid[r][c] = 1;
-        
-        dfs(grid, r + 1, c, rows, cols);
-        dfs(grid, r - 1, c, rows, cols);
-        dfs(grid, r, c + 1, rows, cols);
-        dfs(grid, r, c - 1, rows, cols);
+        return closedIsl;
     }
 }
