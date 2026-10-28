@@ -8,7 +8,7 @@ class Solution {
         this.grid = grid;
         this.m = grid.length;
         this.n = grid[0].length;
-        
+
         this.vis = new long[(m * n) << 4];
 
         dfs(0, 0, 0);
@@ -33,7 +33,8 @@ class Solution {
 
         if (r + 1 < m) {
             dfs(r + 1, c, xor);
-            if (minXor == 0) return; 
+            if (minXor == 0)
+                return;
         }
 
         if (c + 1 < n) {
