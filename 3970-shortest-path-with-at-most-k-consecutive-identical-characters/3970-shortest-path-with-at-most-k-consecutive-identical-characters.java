@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 class Solution {
     public int shortestPath(int n, int[][] edges, String labels, int k) {
-        // 1. Primitive Forward-Star Adjacency List
         int[] head = new int[n];
         Arrays.fill(head, -1);
         int m = edges.length;
@@ -17,20 +16,17 @@ class Solution {
             next[i] = head[u];
             head[u] = i;
         }
-        
-        // 2D Distance Array: minDist[node][consecutive_count]
-        int[][] minDist = new int[n][k + 1];
+                int[][] minDist = new int[n][k + 1];
         for (int i = 0; i < n; i++) {
             Arrays.fill(minDist[i], Integer.MAX_VALUE);
         }
         
-        // Custom Primitive Heap prevents boxing overhead of PriorityQueue<Long>
         LongMinHeap heap = new LongMinHeap(m * 2); 
         
         minDist[0][1] = 0;
-        heap.add(pack(0, 0, 1)); // (weight = 0, u = 0, count = 1)
+        heap.add(pack(0, 0, 1)); 
         
-        byte[] chars = labels.getBytes(); // Faster sequential character access
+        byte[] chars = labels.getBytes(); 
         
         while (!heap.isEmpty()) {
             long val = heap.poll();
