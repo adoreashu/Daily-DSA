@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adoreashu/Daily-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/adoreashu/Daily-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/adoreashu/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adoreashu/Daily-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0835-image-overlap](https://github.com/adoreashu/Daily-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/adoreashu/Daily-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/adoreashu/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adoreashu/Daily-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/adoreashu/Daily-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adoreashu/Daily-DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1563-stone-game-v](https://github.com/adoreashu/Daily-DSA/tree/main/1563-stone-game-v/) | Hard |
