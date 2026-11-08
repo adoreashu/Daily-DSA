@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adoreashu/Daily-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/adoreashu/Daily-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/adoreashu/Daily-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adoreashu/Daily-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adoreashu/Daily-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/adoreashu/Daily-DSA/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/adoreashu/Daily-DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adoreashu/Daily-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/adoreashu/Daily-DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/adoreashu/Daily-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adoreashu/Daily-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adoreashu/Daily-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/adoreashu/Daily-DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adoreashu/Daily-DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adoreashu/Daily-DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adoreashu/Daily-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/adoreashu/Daily-DSA/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adoreashu/Daily-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adoreashu/Daily-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adoreashu/Daily-DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -427,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/adoreashu/Daily-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/adoreashu/Daily-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adoreashu/Daily-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adoreashu/Daily-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
