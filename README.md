@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adoreashu/Daily-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adoreashu/Daily-DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/adoreashu/Daily-DSA/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adoreashu/Daily-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adoreashu/Daily-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adoreashu/Daily-DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/adoreashu/Daily-DSA/tree/main/2409-count-days-spent-together/) | Easy |
