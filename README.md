@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/adoreashu/Daily-DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/adoreashu/Daily-DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adoreashu/Daily-DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adoreashu/Daily-DSA/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adoreashu/Daily-DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adoreashu/Daily-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adoreashu/Daily-DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adoreashu/Daily-DSA/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/adoreashu/Daily-DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/adoreashu/Daily-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adoreashu/Daily-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adoreashu/Daily-DSA/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
